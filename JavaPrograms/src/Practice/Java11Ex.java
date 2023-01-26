@@ -6,7 +6,7 @@ public class Java11Ex {
 	public static void main(String[] args) {
 		int marksobtained, passingmarks;
 		char grade;
-		passingmarks =45;
+		passingmarks = 45;
 
 		Scanner input = new Scanner(System.in);
 		System.out.println("Input Marks scored by you");
