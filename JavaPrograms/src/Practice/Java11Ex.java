@@ -13,7 +13,7 @@ public class Java11Ex {
 		marksobtained = input.nextInt();
 
 		if (marksobtained >= passingmarks) {
-			if (marksobtained > 100)
+			if (marksobtained >= 100)
 				grade = 'A';
 			else if (marksobtained > 85)
 				grade = 'B';
