@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class Java11Ex {
+public class Ex11 {
 	public static void main(String[] args) {
 		int marksobtained, passingmarks;
 		char grade;
