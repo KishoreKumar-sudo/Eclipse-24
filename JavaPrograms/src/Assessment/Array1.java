@@ -25,7 +25,6 @@ public class Array1 {
 	}
 
 	private static int sort(int[] arr) {
-		// TODO Auto-generated method stub
 		Arrays.sort(arr);
 		return arr[0];
 	}
